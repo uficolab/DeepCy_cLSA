@@ -25,8 +25,8 @@ The diagnostic workflow is divided into two major tasks:
 ## 📥 Model Weights
 | Task | Target Classes | Repository Link |
 | :--- | :--- | :--- |
-| **Diagnosis** | LSA vs RLN | [LSA-RLN Model](https://huggingface.co/hazel070720/Canine-LSA-RLN_ResNet50-model) |
-| **Subtyping** | T-cell vs B-cell | [T-B cell Model](https://huggingface.co/hazel070720/Canine-Tcell-Bcell_ResNet50-model) |
+| **Diagnosis** | LSA vs RLN | [LSA-RLN Models](https://huggingface.co/hazel070720/Canine-LSA-RLN_ResNet50-model) |
+| **Subtyping** | T-cell vs B-cell | [T-B cell Models](https://huggingface.co/hazel070720/Canine-Tcell-Bcell_ResNet50-model) |
 
 * **Architecture:** ResNet50
 * **Format:** PyTorch State Dictionary (`.pth`)
