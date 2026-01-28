@@ -1,5 +1,5 @@
 # Deep learning-assisted Cytological Image Analysis for Canine Lymphoma
-This repository is for the materials related to the paper published: "Deep learning assisted cytological image analysis for canine lymphoma (2026, Veterinary Oncology)"
+This repository is for the materials related to the paper published: "Deep learning assisted cytological image analysis for canine lymphoma (2026, Veterinary Oncology)."
 This repository provides deep learning models based on the **ResNet50** architecture for two specialized tasks in veterinary clinical pathology: comprehensive canine lymphoma analysis, including differential diagnosis between lymphoma and reactive lymphoid hyperplasia, and immunophenotype subtyping.
 
 ---
